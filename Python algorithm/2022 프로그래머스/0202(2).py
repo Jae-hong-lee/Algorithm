@@ -10,7 +10,6 @@
 # 정수 n, left, right가 매개변수로 주어집니다. 주어진 과정대로 만들어진
 # 1차원 배열을 return 하도록 solution 함수를 완성해주세요.
 
-
 # answer[i] = Math.max(row, col);
 # 사각형 채우기
 def solution(n, left, right):
