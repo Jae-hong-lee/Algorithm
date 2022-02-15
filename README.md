@@ -19,7 +19,7 @@
 ## Algorithm-quiz
 <!-- // This repository is for uploading algorithm quiz I solved. -->
 ## [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
-###LV.1
+### LV.1
 * [행렬의 덧셈](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/martixsum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 
