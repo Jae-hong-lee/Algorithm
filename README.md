@@ -1,4 +1,5 @@
-# Python
+# Python 
+<!-- 2021 연습한거 수정, 깃허브 정리, 깃으로 관리하기, 그 동안 풀었던 문제 업로드. -->
 # Algorithm-quiz
 <!-- // This repository is for uploading algorithm quiz I solved. -->
 # [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
