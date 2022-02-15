@@ -24,6 +24,6 @@
 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
-* [행렬의 덧셈]( https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/martixsum.js"problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
+* [행렬의 덧셈](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/martixsum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
  <!-- 백준 알고리즘 문제 형식 정리 -->
  <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
