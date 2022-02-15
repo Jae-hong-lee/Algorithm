@@ -23,8 +23,8 @@
 ## [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
 ### LV.1
 * [행렬의 덧셈](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/martixsum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
-* [x만큼 간격이 있는 n개의 숫자](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/3.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12954, "Programmers Link") -->
-
+* [x만큼 간격이 있는 n개의 숫자](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/3.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12954, "Programmers Link")
+* [직사각형 별찍기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/star.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
 
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
