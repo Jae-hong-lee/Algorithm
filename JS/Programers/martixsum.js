@@ -15,4 +15,5 @@ function solution(arr1, arr2) {
     }
     return answer;
 }
+
 console.log(solution([[1],[2]],[[3],[4]])) ;// result = [[4],[6]]
