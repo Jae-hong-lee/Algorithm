@@ -26,8 +26,7 @@ function solution(arr) {
 //다른 풀이 reduce 함수를 배운 후
 function solution(arr) {
     var answer = 0;
-    let sum = arr.reduce((a,b) => a +b,0);
-    console.log(sum / arr.length);
-    return answer;
+    const sum = arr.reduce((a,b)=> a+b , 0);
+    return sum / arr.length;
 }
 console.log(solution([1,2,3,4])) //result 2.5
