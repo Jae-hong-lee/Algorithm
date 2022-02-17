@@ -29,6 +29,8 @@
 * [평균 구하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Average.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript, "Programmers Link")
 * [하샤드 수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/harshad_num.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript, "Programmers Link")
 * [콜라츠 추측](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/colatz.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript, "Programmers Link")
+* [최대공약수와 최소공배수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/gcd.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript, "Programmers Link")
+
 
 
 
