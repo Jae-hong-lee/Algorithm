@@ -28,6 +28,9 @@
 * [직사각형 별찍기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/star.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
 * [평균 구하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Average.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript, "Programmers Link")
 * [하샤드 수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/harshad_num.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript, "Programmers Link")
+* [콜라츠 추측](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/colatz.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript, "Programmers Link")
+
+
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 
