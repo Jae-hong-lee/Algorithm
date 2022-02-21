@@ -34,7 +34,7 @@
 * [약수의 합](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/divisor_sum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript, "Programmers Link")
 * [제일 작은 수 제거하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/min_num_del.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript, "Programmers Link")
  * [짝수와 홀수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Odd_Even.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript, "Programmers Link")
-
+ * [핸드폰 번호 가리기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/phonenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
 
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
