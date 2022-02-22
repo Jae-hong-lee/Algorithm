@@ -36,6 +36,9 @@
  * [짝수와 홀수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Odd_Even.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript, "Programmers Link")
  * [핸드폰 번호 가리기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/phonenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
  * [정수 내림차순으로 배치하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reverse_sort.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript, "Programmers Link")
+ * [자연수 뒤집어 배열로 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reversenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript, "Programmers Link")
+
+
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 
