@@ -39,7 +39,7 @@
  * [자연수 뒤집어 배열로 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reversenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript, "Programmers Link")
  * [정수 제곱근 판별](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/root.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript, "Programmers Link")
  * [이상한 문자열 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Strange_str.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript, "Programmers Link")
-
+ * [문자열 다루기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strcon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript, "Programmers Link")
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
