@@ -41,7 +41,7 @@
  * [이상한 문자열 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Strange_str.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript, "Programmers Link")
  * [문자열 다루기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strcon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript, "Programmers Link")
 * [문자열 내림차순 배치하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strsort.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript, "Programmers Link")
-
+ * [자릿수 더하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/sum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript, "Programmers Link")
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 
