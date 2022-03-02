@@ -10,6 +10,10 @@
 * [[1차]캐시](https://github.com/Jae-hong-lee/Algorithm/blob/main/Python%20algorithm/2022%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/02051.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/17680, "Programmers Link")
 * [피보나치 수](https://github.com/Jae-hong-lee/Algorithm/blob/main/Python%20algorithm/2022%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/0820.py "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12945, "Programmers Link")
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
+ * [10828](https://github.com/Jae-hong-lee/Algorithm/blob/main/Python%20algorithm/2022%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/10828.py) : 제목 [](https://www.acmicpc.net/problem/10828)
+
+
+
 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
