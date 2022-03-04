@@ -12,12 +12,6 @@
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
  * [10828](https://github.com/Jae-hong-lee/Algorithm/blob/main/Python%20algorithm/2022%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%A5%E1%84%89%E1%85%B3/10828.py) : [스택](https://www.acmicpc.net/problem/10828)
 
-<details>
-<summary>Click to toggle contents of `code`</summary>
-```
-CODE!
-```
-</details>
 
 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
@@ -26,6 +20,13 @@ CODE!
  <!-- 백준 알고리즘 문제 형식 정리 -->
  <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
  
+ <!-- 토글 생성 -->
+  <!-- <details>
+  <summary>Click to toggle contents of `code`</summary>
+  ```
+  CODE!
+  ```
+  </details> -->
  ---
  
 # JavaScript
@@ -55,7 +56,11 @@ CODE!
 * [수박수박수박수박수박수?](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/watermalon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript, "Programmers Link")
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
-
+<!-- 토글 생성 -->
+<details>
+<summary>입출력과 사칙연산</summary>
+ <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
+</details>
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
