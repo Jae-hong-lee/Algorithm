@@ -35,7 +35,7 @@
 <details>
 <summary>if문</summary>
 <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/if/2884.js">[2884]</a> : <a href = "https://www.acmicpc.net/problem/2884">알람시계 </a> <br>
- <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/if/2480.js">[2480]</a> : <a href = "https://www.acmicpc.net/problem/2480">주사위  </a>
+ <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/if/2480.js">[2480]</a> : <a href = "https://www.acmicpc.net/problem/2480">주사위 세개</a> <br>
 </details>
  <!-- 토글 생성
 <details>
