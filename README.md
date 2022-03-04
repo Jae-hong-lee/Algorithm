@@ -34,15 +34,14 @@
 
 <details>
 <summary>if문</summary>
-<a href="">[문제번호]</a> : <a href = "">문제 </a>
+<a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/if/2884.js">[2884]</a> : <a href = "https://www.acmicpc.net/problem/2884">알람시계 </a>
 </details>
  <!-- 토글 생성
 <details>
-<summary>여기를 눌러주세요</summary>
-<div markdown="1">       
-😎숨겨진 내용😎
-</div>
-</details> -->
+<summary>대제목</summary>
+<a href="">[문제번호]</a> : <a href = "">문제 </a>
+</details>
+ -->
  
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
