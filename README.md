@@ -41,19 +41,8 @@
 * [수박수박수박수박수박수?](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/watermalon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript, "Programmers Link")
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
-<!-- 토글 생성 -->
-<detail>
-<summary>입출력과 사칙연산</summary>
-<div markdown="1">
-
+### 입출력과 사칙연산
 * [1000]('https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js') : A+B [(문제)]('https://www.acmicpc.net/problem/1000')
-
-</div>
- </detail>
-  <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
-  <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
-
-
 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
