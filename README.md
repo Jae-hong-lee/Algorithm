@@ -27,10 +27,19 @@
 * [수박수박수박수박수박수?](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/watermalon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript, "Programmers Link")
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
-<detail>
- <submit>입출력과 사칙연산</submit>
-* <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js">[1000]</a> : <a href = "https://www.acmicpc.net/problem/1000">A+B </a>
-</detail>
+<details>
+<summary>입출력과 사칙연산</summary>
+<a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js">[1000]</a> : <a href = "https://www.acmicpc.net/problem/1000">A+B </a>
+</details>
+
+ <!-- 토글 생성
+<details>
+<summary>여기를 눌러주세요</summary>
+<div markdown="1">       
+😎숨겨진 내용😎
+</div>
+</details> -->
+ 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
