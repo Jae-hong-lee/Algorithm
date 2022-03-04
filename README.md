@@ -32,6 +32,10 @@
 <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js">[1000]</a> : <a href = "https://www.acmicpc.net/problem/1000">A+B </a>
 </details>
 
+<details>
+<summary>if문</summary>
+<a href="">[문제번호]</a> : <a href = "">문제 </a>
+</details>
  <!-- 토글 생성
 <details>
 <summary>여기를 눌러주세요</summary>
