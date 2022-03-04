@@ -44,7 +44,11 @@
 <!-- 토글 생성 -->
 <detail>
 <summary>입출력과 사칙연산</summary>
-* [1000](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js) : A+B [(문제)](https://www.acmicpc.net/problem/1000)
+<div markdown="1">
+
+* [1000]('https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js') : A+B [(문제)]('https://www.acmicpc.net/problem/1000')
+
+</div>
  </detail>
   <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
   <!-- * [문제 번호](URL) : 제목 [(문제)](URL) -->
