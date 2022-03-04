@@ -42,7 +42,7 @@
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 ### 입출력과 사칙연산
-* [1000]('https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js') : A+B [(문제)]('https://www.acmicpc.net/problem/1000')
+* [1000](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js) : A+B [(문제)](https://www.acmicpc.net/problem/1000)
 
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
