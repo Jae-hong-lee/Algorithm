@@ -29,18 +29,19 @@
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
 <details>
 <summary>입출력과 사칙연산</summary>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/2557.js">[2557]</a> : <a href = "https://www.acmicpc.net/problem/2557">Hello World! </a>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/2557.js">[2557]</a> : <a href = "https://www.acmicpc.net/problem/2557">Hello World! </a> <br>
 <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/inputs/1000.js">[1000]</a> : <a href = "https://www.acmicpc.net/problem/1000">A+B </a>
-<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/1001.js">[1001]</a> : <a href = "ttps://www.acmicpc.net/problem/1001">A-B </a>
-<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/1008.js">[1008]</a> : <a href = "https://www.acmicpc.net/problem/1008">A/B </a>
-<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10171.js">[10171]</a> : <a href = "https://www.acmicpc.net/problem/10171">고양이 </a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10172.js">[10172]</a> : <a href = "https://www.acmicpc.net/problem/10172">개 </a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10430.js">[10430]</a> : <a href = "https://www.acmicpc.net/problem/10430">나머지</a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10718.js">[10718]</a> : <a href = "https://www.acmicpc.net/problem/10718">We love kriii </a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10869.js">[10869]</a> : <a href = "https://www.acmicpc.net/problem/10869">사칙연산</a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10926.js">[10926]</a> : <a href = "https://www.acmicpc.net/problem/10926">??! </a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10998.js">[10998]</a> : <a href = "https://www.acmicpc.net/problem/10998">A*B </a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/18108.js">[18108]</a> : <a href = "https://www.acmicpc.net/problem/18108">1998년생인 내가 태국에서는 2541년생?! </a>
+ <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/1001.js">[1001]</a> : <a href = "https://www.acmicpc.net/problem/1001"> A-B </a> <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/1008.js">[1008]</a> : <a href = "https://www.acmicpc.net/problem/1008">A/B </a> <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10171.js">[10171]</a> : <a href = "https://www.acmicpc.net/problem/10171">고양이 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10172.js">[10172]</a> : <a href = "https://www.acmicpc.net/problem/10172">개 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10430.js">[10430]</a> : <a href = "https://www.acmicpc.net/problem/10430">나머지</a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10718.js">[10718]</a> : <a href = "https://www.acmicpc.net/problem/10718">We love kriii </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10869.js">[10869]</a> : <a href = "https://www.acmicpc.net/problem/10869">사칙연산</a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10926.js">[10926]</a> : <a href = "https://www.acmicpc.net/problem/10926">??! </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/10998.js">[10998]</a> : <a href = "https://www.acmicpc.net/problem/10998">A*B </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/18108.js">[18108]</a> : <a href = "https://www.acmicpc.net/problem/18108">1998년생인 내가 태국에서는 2541년생?! </a> <br>
  <a href="https://www.acmicpc.net/problem/2588">[2588]</a> : <a href = "https://www.acmicpc.net/problem/2588">곱셈 </a>
 
  
