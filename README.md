@@ -55,13 +55,13 @@
 
 <details>
  <summary>for문</summary>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/8393.js">[8393]</a> : <a href = "https://www.acmicpc.net/problem/8393">합</a>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2741.js">[2741]</a> : <a href = "https://www.acmicpc.net/problem/2741">N 찍기 </a>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2742.js">[2742]</a> : <a href = "https://www.acmicpc.net/problem/2742">기찍 N</a>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2739.js">[2739]</a> : <a href = "https://www.acmicpc.net/problem/2739">구구단</a>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2438.js">[2438]</a> : <a href = "https://www.acmicpc.net/problem/2438">별 찍기 - 1</a>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2439.js">[2439]</a> : <a href = "https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2439.js">별 찍기 - 2</a>
-  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/10950.js">[10950]</a> : <a href = "https://www.acmicpc.net/problem/10950">A + B - 3</a>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/8393.js">[8393]</a> : <a href = "https://www.acmicpc.net/problem/8393">합</a> <br>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2741.js">[2741]</a> : <a href = "https://www.acmicpc.net/problem/2741">N 찍기 </a><br>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2742.js">[2742]</a> : <a href = "https://www.acmicpc.net/problem/2742">기찍 N</a><br>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2739.js">[2739]</a> : <a href = "https://www.acmicpc.net/problem/2739">구구단</a><br>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2438.js">[2438]</a> : <a href = "https://www.acmicpc.net/problem/2438">별 찍기 - 1</a><br>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2439.js">[2439]</a> : <a href = "https://www.acmicpc.net/problem/2439">별 찍기 - 2</a><br>
+  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/10950.js">[10950]</a> : <a href = "https://www.acmicpc.net/problem/10950">A + B - 3</a><br>
 </details>
  <!-- 토글 생성
 <details>
