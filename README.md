@@ -63,6 +63,16 @@
   <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/2439.js">[2439]</a> : <a href = "https://www.acmicpc.net/problem/2439">별 찍기 - 2</a><br>
   <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/for/10950.js">[10950]</a> : <a href = "https://www.acmicpc.net/problem/10950">A + B - 3</a><br>
 </details>
+ 
+<details>
+<summary>While</summary>
+<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10951.js">[10951]</a> : <a href = "https://www.acmicpc.net/problem/10951">A+B - 4</a>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10952.js">[10952]</a> : <a href = "https://www.acmicpc.net/problem/10952">A+B - 5</a>
+<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/1110.js">[1110]</a> : <a href = "https://www.acmicpc.net/problem/1110">더하기 사이클</a>
+</details>
+
+ 
+</details>
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
