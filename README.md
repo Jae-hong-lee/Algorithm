@@ -72,8 +72,8 @@
 </details>
 
 * [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) :  [(문제)](https://www.acmicpc.net/problem/10828)
-
-
+* [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
+* [9093](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9093.js) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
 
  <!-- 토글 생성
 <details>
