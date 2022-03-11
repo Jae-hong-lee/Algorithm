@@ -71,8 +71,10 @@
 <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/1110.js">[1110]</a> : <a href = "https://www.acmicpc.net/problem/1110">더하기 사이클</a>
 </details>
 
- 
-</details>
+* [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) :  [(문제)](https://www.acmicpc.net/problem/10828)
+
+
+
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
