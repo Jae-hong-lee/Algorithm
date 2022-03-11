@@ -66,8 +66,8 @@
  
 <details>
 <summary>While</summary>
-<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10951.js">[10951]</a> : <a href = "https://www.acmicpc.net/problem/10951">A+B - 4</a>
- <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10952.js">[10952]</a> : <a href = "https://www.acmicpc.net/problem/10952">A+B - 5</a>
+<a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10951.js">[10951]</a> : <a href = "https://www.acmicpc.net/problem/10951">A+B - 4</a><br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10952.js">[10952]</a> : <a href = "https://www.acmicpc.net/problem/10952">A+B - 5</a><br>
 <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/1110.js">[1110]</a> : <a href = "https://www.acmicpc.net/problem/1110">더하기 사이클</a>
 </details>
 
