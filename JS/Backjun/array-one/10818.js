@@ -1,5 +1,6 @@
 // 10818번 최소, 최대
 // https://www.acmicpc.net/problem/10818
+
 const fs = require('fs');
 const filePath = process.platform === "linux" ? "/dev/stdin" : "JS/Backjun/input.txt";
 let input = fs.readFileSync(filePath).toString().split("\n");
