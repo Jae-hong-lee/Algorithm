@@ -74,7 +74,12 @@
 
 <details>
 <summary>1차원 배열</summary>
-<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/10818.js">[10818]</a> : <a href = "https://www.acmicpc.net/problem/10818">최소, 최대 </a>
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/10818.js">[10818]</a> : <a href = "https://www.acmicpc.net/problem/10818">최소, 최대 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/1546.js">[1546]</a> : <a href = "https://www.acmicpc.net/problem/1546">평균 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/2562.js">[2562]</a> : <a href = "https://www.acmicpc.net/problem/2562">최댓값 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/2577.js">[2577]</a> : <a href = "https://www.acmicpc.net/problem/2577">숫자의 개수 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/3052.js">[3052]</a> : <a href = "https://www.acmicpc.net/problem/3052">나머지 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/8958.js">[8958]</a> : <a href = "https://www.acmicpc.net/problem/8958">OX퀴즈 </a> <br>
 </details>
 
 
@@ -85,7 +90,7 @@
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
-<a href="">[문제번호]</a> : <a href = "">문제 </a>
+<a href="">[문제번호]</a> : <a href = "">문제 </a> <br>
 </details>
  -->
  
