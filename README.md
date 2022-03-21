@@ -71,6 +71,11 @@
 <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/1110.js">[1110]</a> : <a href = "https://www.acmicpc.net/problem/1110">더하기 사이클</a>
 </details>
 
+
+<details>
+<summary>1차원 배열</summary>
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/10818.js">[10818]</a> : <a href = "https://www.acmicpc.net/problem/10818">최소, 최대 </a>
+</details>
 * [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
 * [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
 * [9093](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9093.js) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
