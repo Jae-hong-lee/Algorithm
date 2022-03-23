@@ -80,6 +80,8 @@
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/2577.js">[2577]</a> : <a href = "https://www.acmicpc.net/problem/2577">숫자의 개수 </a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/3052.js">[3052]</a> : <a href = "https://www.acmicpc.net/problem/3052">나머지 </a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/8958.js">[8958]</a> : <a href = "https://www.acmicpc.net/problem/8958">OX퀴즈 </a> <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/4344.js">[4344]</a> : <a href = "https://www.acmicpc.net/problem/4344">평균은 넘겠지 </a> <br>
+
 </details>
 
 
