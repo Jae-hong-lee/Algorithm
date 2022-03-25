@@ -88,6 +88,8 @@
 * [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
 * [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
 * [9093](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9093.js) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
+* [1874](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1874.js) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
+* [1406](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1406.js) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
 
  <!-- 토글 생성
 <details>
