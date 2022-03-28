@@ -51,6 +51,11 @@
 <summary>if문</summary>
  <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/if/2884.js">[2884]</a> : <a href = "https://www.acmicpc.net/problem/2884">알람시계 </a> <br>
  <a href="https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Backjun/if/2480.js">[2480]</a> : <a href = "https://www.acmicpc.net/problem/2480">주사위 세개</a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/if/1330.js">[1330]</a> : <a href = "https://www.acmicpc.net/problem/1330">두 수 비교하기 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/if/14681.js">[14681]</a> : <a href = "https://www.acmicpc.net/problem/14681">사분면 고르기 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/if/2525.js">[2525]</a> : <a href = "https://www.acmicpc.net/problem/2525">오븐시계 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/if/2753.js">[2753]</a> : <a href = "https://www.acmicpc.net/problem/2753">윤년 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/if/9498.js">[9498]</a> : <a href = "https://www.acmicpc.net/problem/9498">시험성적 </a> <br>
 </details>
 
 <details>
