@@ -86,9 +86,13 @@
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/3052.js">[3052]</a> : <a href = "https://www.acmicpc.net/problem/3052">나머지 </a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/8958.js">[8958]</a> : <a href = "https://www.acmicpc.net/problem/8958">OX퀴즈 </a> <br>
 <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/array-one/4344.js">[4344]</a> : <a href = "https://www.acmicpc.net/problem/4344">평균은 넘겠지 </a> <br>
-
 </details>
 
+<details>
+<summary>함수</summary>
+<a href="">[4673]</a> : <a href = "https://www.acmicpc.net/problem/4673">셀프 넘버 </a> <br>
+<a href="">[1065]</a> : <a href = "https://www.acmicpc.net/problem/1065">한수 </a> <br>
+</details>
 
 * [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
 * [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
