@@ -90,8 +90,8 @@
 
 <details>
 <summary>함수</summary>
-<a href="">[4673]</a> : <a href = "https://www.acmicpc.net/problem/4673">셀프 넘버 </a> <br>
-<a href="">[1065]</a> : <a href = "https://www.acmicpc.net/problem/1065">한수 </a> <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/function/4673.js">[4673]</a> : <a href = "https://www.acmicpc.net/problem/4673">셀프 넘버 </a> <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/function/1065.js">[1065]</a> : <a href = "https://www.acmicpc.net/problem/1065">한수 </a> <br>
 </details>
 
 * [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
