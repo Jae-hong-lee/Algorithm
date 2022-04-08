@@ -101,6 +101,8 @@
 * [1406](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1406.js) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
 * [10866](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/10866.js) : 덱 [(문제)](https://www.acmicpc.net/problem/10866)
 * [1158](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1158.js) : 요세푸스  [(문제)](https://www.acmicpc.net/problem/1158)
+* [17413](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17413.js) : 단어 뒤집기2 [(문제)](https://www.acmicpc.net/problem/17413)
+
 
  <!-- 토글 생성
 <details>
