@@ -99,6 +99,8 @@
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/11654.js">[11654]</a> : <a href = "https://www.acmicpc.net/problem/11654">아스키 코드</a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/11720.js">[11720]</a> : <a href = "https://www.acmicpc.net/problem/11720">숫자의 합</a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/10809.js">[10809]</a> : <a href = "https://www.acmicpc.net/problem/10809">알파벳 찾기 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/1157.js">[1157]</a> : <a href = "https://www.acmicpc.net/problem/1157">단어공부</a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/2675.js">[2675]</a> : <a href = "https://www.acmicpc.net/problem/2675">문자열반복</a> <br>
 </details>
 
 
