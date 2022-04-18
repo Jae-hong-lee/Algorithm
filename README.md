@@ -103,7 +103,8 @@
   <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/10809.js">[10809]</a> : <a href = "https://www.acmicpc.net/problem/10809">알파벳 찾기 </a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/11654.js">[11654]</a> : <a href = "https://www.acmicpc.net/problem/11654">아스키 코드</a> <br>
  <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/11720.js">[11720]</a> : <a href = "https://www.acmicpc.net/problem/11720">숫자의 합</a> <br>
-
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/2941.js">[2941]</a> : <a href = "https://www.acmicpc.net/problem/2941">크로아티아 알파벳 </a> <br>
+ <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/String/5622.js">[5622]</a> : <a href = "https://www.acmicpc.net/problem/5622">다이얼 </a> <br>
  
 </details>
 
