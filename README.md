@@ -119,7 +119,8 @@
 * [1158](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1158.js) : 요세푸스  [(문제)](https://www.acmicpc.net/problem/1158)
 * [17413](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17413.js) : 단어 뒤집기2 [(문제)](https://www.acmicpc.net/problem/17413)
 * [17298](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17298.js) : 오큰수[(문제)](https://www.acmicpc.net/problem/17298)
-
+* [17299](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17299.js) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
+* [10799](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10799.js) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799)
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
