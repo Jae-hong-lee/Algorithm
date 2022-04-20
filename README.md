@@ -109,18 +109,20 @@
 </details>
 
 
-
-* [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
+* [1158](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1158.js) : 요세푸스  [(문제)](https://www.acmicpc.net/problem/1158)
+* [1406](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1406.js) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
+* [1874](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1874.js) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
 * [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
 * [9093](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9093.js) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
-* [1874](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1874.js) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
-* [1406](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1406.js) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
+* [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
 * [10866](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/10866.js) : 덱 [(문제)](https://www.acmicpc.net/problem/10866)
-* [1158](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1158.js) : 요세푸스  [(문제)](https://www.acmicpc.net/problem/1158)
+* [10799](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10799.js) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799)
 * [17413](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17413.js) : 단어 뒤집기2 [(문제)](https://www.acmicpc.net/problem/17413)
 * [17298](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17298.js) : 오큰수[(문제)](https://www.acmicpc.net/problem/17298)
 * [17299](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17299.js) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
-* [10799](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10799.js) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799)
+* 
+* [1935](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1935.js) : 후위 표기식2 [(문제)](https://www.acmicpc.net/problem/1935)
+
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
