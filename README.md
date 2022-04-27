@@ -122,7 +122,8 @@
 * [17299](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17299.js) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
 * [1918](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1918.js) : 후위 표기식 [(문제)](https://www.acmicpc.net/problem/1918)
 * [1935](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1935.js) : 후위 표기식2 [(문제)](https://www.acmicpc.net/problem/1935)
-
+* [10820](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10820.js) : 문자열 분석 [(문제)](https://www.acmicpc.net/problem/10820)
+* [10808](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10808.js) : 알파벳 개수 [(문제)](https://www.acmicpc.net/problem/10808)
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
