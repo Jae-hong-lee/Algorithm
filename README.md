@@ -110,7 +110,7 @@
 
 <details>
 <summary>기본수학1</summary>
-<a href="">[문제번호]</a> : <a href = "">문제 </a> <br>
+<a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/basic-math/1712.js">[1712]</a> : <a href = "https://www.acmicpc.net/problem/1712 ">손익분기점 </a> <br>
 </details>
 
 
