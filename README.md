@@ -1,32 +1,37 @@
 # Algorithm-quiz
- 
+
 # JavaScript
+
 <!-- 2021 연습한거 수정, 깃허브 정리, 깃으로 관리하기, 그 동안 풀었던 문제 업로드. -->
 <!-- ## Algorithm-quiz -->
 <!-- // This repository is for uploading algorithm quiz I solved. -->
+
 ## [PROGRAMMERS](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit, "Programmers Link")
+
 ### LV.1
-* [행렬의 덧셈](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/martixsum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
-* [x만큼 간격이 있는 n개의 숫자](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/3.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12954, "Programmers Link")
-* [직사각형 별찍기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/star.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
-* [평균 구하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Average.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript, "Programmers Link")
-* [하샤드 수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/harshad_num.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript, "Programmers Link")
-* [콜라츠 추측](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/colatz.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript, "Programmers Link")
-* [최대공약수와 최소공배수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/gcd.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript, "Programmers Link")
-* [약수의 합](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/divisor_sum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript, "Programmers Link")
-* [제일 작은 수 제거하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/min_num_del.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript, "Programmers Link")
- * [짝수와 홀수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Odd_Even.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript, "Programmers Link")
- * [핸드폰 번호 가리기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/phonenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
- * [정수 내림차순으로 배치하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reverse_sort.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript, "Programmers Link")
- * [자연수 뒤집어 배열로 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reversenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript, "Programmers Link")
- * [정수 제곱근 판별](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/root.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript, "Programmers Link")
- * [이상한 문자열 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Strange_str.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript, "Programmers Link")
- * [문자열 다루기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strcon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript, "Programmers Link")
-* [문자열 내림차순 배치하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strsort.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript, "Programmers Link")
- * [자릿수 더하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/sum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript, "Programmers Link")
-* [수박수박수박수박수박수?](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/watermalon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript, "Programmers Link")
+
+- [행렬의 덧셈](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/martixsum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12950, "Programmers Link")
+- [x만큼 간격이 있는 n개의 숫자](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/3.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12954, "Programmers Link")
+- [직사각형 별찍기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/star.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12969, "Programmers Link")
+- [평균 구하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Average.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript, "Programmers Link")
+- [하샤드 수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/harshad_num.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript, "Programmers Link")
+- [콜라츠 추측](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/colatz.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript, "Programmers Link")
+- [최대공약수와 최소공배수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/gcd.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12940?language=javascript, "Programmers Link")
+- [약수의 합](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/divisor_sum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript, "Programmers Link")
+- [제일 작은 수 제거하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/min_num_del.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript, "Programmers Link")
+- [짝수와 홀수](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Odd_Even.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript, "Programmers Link")
+- [핸드폰 번호 가리기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/phonenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12948, "Programmers Link")
+- [정수 내림차순으로 배치하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reverse_sort.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript, "Programmers Link")
+- [자연수 뒤집어 배열로 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/reversenum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript, "Programmers Link")
+- [정수 제곱근 판별](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/root.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12934?language=javascript, "Programmers Link")
+- [이상한 문자열 만들기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/Strange_str.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12930?language=javascript, "Programmers Link")
+- [문자열 다루기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strcon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12918?language=javascript, "Programmers Link")
+- [문자열 내림차순 배치하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/strsort.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12917?language=javascript, "Programmers Link")
+- [자릿수 더하기](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/sum.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript, "Programmers Link")
+- [수박수박수박수박수박수?](https://github.com/Jae-hong-lee/Algorithm/blob/main/JS/Programers/watermalon.js "problem solving") : [문제](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript, "Programmers Link")
 
 ## [Baekjoon Online Judge](https://www.acmicpc.net)
+
 <details>
 <summary>입출력과 사칙연산</summary>
  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/2557.js">[2557]</a> : <a href = "https://www.acmicpc.net/problem/2557">Hello World! </a> <br>
@@ -44,7 +49,6 @@
  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/inputs/18108.js">[18108]</a> : <a href = "https://www.acmicpc.net/problem/18108">1998년생인 내가 태국에서는 2541년생?! </a> <br>
  <a href="https://www.acmicpc.net/problem/2588">[2588]</a> : <a href = "https://www.acmicpc.net/problem/2588">곱셈 </a>
 
- 
 </details>
 
 <details>
@@ -75,7 +79,6 @@
  <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/10952.js">[10952]</a> : <a href = "https://www.acmicpc.net/problem/10952">A+B - 5</a><br>
 <a href="https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/while/1110.js">[1110]</a> : <a href = "https://www.acmicpc.net/problem/1110">더하기 사이클</a>
 </details>
-
 
 <details>
 <summary>1차원 배열</summary>
@@ -113,33 +116,32 @@
 <a href="https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/basic-math/1712.js">[1712]</a> : <a href = "https://www.acmicpc.net/problem/1712 ">손익분기점 </a> <br>
 </details>
 
+- [1158](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1158.js) : 요세푸스 [(문제)](https://www.acmicpc.net/problem/1158)
+- [1406](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1406.js) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
+- [1874](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1874.js) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
+- [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
+- [9093](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9093.js) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
+- [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
+- [10866](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/10866.js) : 덱 [(문제)](https://www.acmicpc.net/problem/10866)
+- [10799](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10799.js) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799)
+- [17413](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17413.js) : 단어 뒤집기2 [(문제)](https://www.acmicpc.net/problem/17413)
+- [17298](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17298.js) : 오큰수[(문제)](https://www.acmicpc.net/problem/17298)
+- [17299](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17299.js) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
+- [1918](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1918.js) : 후위 표기식 [(문제)](https://www.acmicpc.net/problem/1918)
+- [1935](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1935.js) : 후위 표기식2 [(문제)](https://www.acmicpc.net/problem/1935)
+- [10820](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10820.js) : 문자열 분석 [(문제)](https://www.acmicpc.net/problem/10820)
+- [10808](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10808.js) : 알파벳 개수 [(문제)](https://www.acmicpc.net/problem/10808)
+- [2743](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/2743.js) : 단어 길이 재기[(문제)](https://www.acmicpc.net/problem/2743)
+- [11655](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11655.js) : ROT13 [(문제)](https://www.acmicpc.net/problem/11655)
 
-
-* [1158](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1158.js) : 요세푸스  [(문제)](https://www.acmicpc.net/problem/1158)
-* [1406](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1406.js) : 에디터 [(문제)](https://www.acmicpc.net/problem/1406)
-* [1874](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/1874.js) : 스택수열 [(문제)](https://www.acmicpc.net/problem/1874)
-* [9012](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9012.js) : 괄호 [(문제)](https://www.acmicpc.net/problem/9012)
-* [9093](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/9093.js) : 단어 뒤집기 [(문제)](https://www.acmicpc.net/problem/9093)
-* [10828](https://github.com/Jae-hong-lee/Javascript_Algorithm/blob/main/JS/Backjun/10828.js) : 스택 [(문제)](https://www.acmicpc.net/problem/10828)
-* [10866](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/code/10866.js) : 덱 [(문제)](https://www.acmicpc.net/problem/10866)
-* [10799](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10799.js) : 쇠막대기 [(문제)](https://www.acmicpc.net/problem/10799)
-* [17413](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17413.js) : 단어 뒤집기2 [(문제)](https://www.acmicpc.net/problem/17413)
-* [17298](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17298.js) : 오큰수[(문제)](https://www.acmicpc.net/problem/17298)
-* [17299](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/17299.js) : 오등큰수 [(문제)](https://www.acmicpc.net/problem/17299)
-* [1918](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1918.js) : 후위 표기식 [(문제)](https://www.acmicpc.net/problem/1918)
-* [1935](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1935.js) : 후위 표기식2 [(문제)](https://www.acmicpc.net/problem/1935)
-* [10820](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10820.js) : 문자열 분석 [(문제)](https://www.acmicpc.net/problem/10820)
-* [10808](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10808.js) : 알파벳 개수 [(문제)](https://www.acmicpc.net/problem/10808)
-* [2743](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/2743.js) : 단어 길이 재기[(문제)](https://www.acmicpc.net/problem/2743) 
-* [11655](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11655.js) : ROT13 [(문제)](https://www.acmicpc.net/problem/11655)
-
+- [11656](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11656.js) : 접미사 배열 [(문제)](https://www.acmicpc.net/problem/11656)
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
 <a href="">[문제번호]</a> : <a href = "">문제 </a> <br>
 </details>
  -->
- 
+
  <!-- 프로그래머스 문제 형식 정리 예제 -->
  <!-- * [문제 이름](URL "problem solving") : [문제](URL, "Programmers Link") -->
 
