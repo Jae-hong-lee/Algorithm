@@ -135,6 +135,7 @@
 - [11655](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11655.js) : ROT13 [(문제)](https://www.acmicpc.net/problem/11655)
 
 - [11656](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11656.js) : 접미사 배열 [(문제)](https://www.acmicpc.net/problem/11656)
+- [10430](URL) : 나머지 [(문제)](https://www.acmicpc.net/problem/10430)
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
