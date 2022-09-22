@@ -136,6 +136,7 @@
 
 - [11656](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11656.js) : 접미사 배열 [(문제)](https://www.acmicpc.net/problem/11656)
 - [10430](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10430.js) : 나머지 [(문제)](https://www.acmicpc.net/problem/10430)
+
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
