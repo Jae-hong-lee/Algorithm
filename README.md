@@ -133,10 +133,12 @@
 - [10808](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10808.js) : 알파벳 개수 [(문제)](https://www.acmicpc.net/problem/10808)
 - [2743](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/2743.js) : 단어 길이 재기[(문제)](https://www.acmicpc.net/problem/2743)
 - [11655](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11655.js) : ROT13 [(문제)](https://www.acmicpc.net/problem/11655)
-
 - [11656](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/11656.js) : 접미사 배열 [(문제)](https://www.acmicpc.net/problem/11656)
 - [10430](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/10430.js) : 나머지 [(문제)](https://www.acmicpc.net/problem/10430)
 
+* [2609](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/2609.js) : 최대공약수와 최소공배수 [(문제)](https://www.acmicpc.net/problem/2609)
+
+* [1934](https://github.com/Jae-hong-lee/Javascript_study/blob/main/JS/Backjun/1934.js) : 최소공배수 [(문제)](https://www.acmicpc.net/problem/1934)
  <!-- 토글 생성
 <details>
 <summary>대제목</summary>
