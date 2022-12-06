@@ -1,4 +1,5 @@
 # Algorithm-quiz
+![image](https://user-images.githubusercontent.com/72030487/205889768-7b6de58e-3343-4288-a62b-89555292ddfb.png)
 
 # JavaScript
 
